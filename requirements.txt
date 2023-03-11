@@ -1,0 +1,7 @@
+Notepad++
+VScode
+Python3.11
+Jupyer Lab
+Chrome
+Git
+Github
